@@ -6,10 +6,11 @@ class Variable {
 
     int Angka_1 = 500;
 
+    Angka_1 += 30;
+
     System.out.println("Halo" + nama);
     System.out.println("Uang"); 
     System.out.println(3 + Angka_1);
-    
 
   }
 }
